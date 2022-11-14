@@ -1,2 +1,2 @@
 # try-gitflow
-n this exercise, I practiced Gitflow with an empty repo.
+In this exercise, I practiced Gitflow with an empty repo.
